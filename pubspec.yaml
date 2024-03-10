@@ -1,5 +1,5 @@
 name: app_controle_acesso_visitantes
-description: Este projeto utiliza o armazenamento local para guardar os registros criados, desse modo as informações não são perdidas quando o aplicativo é encerrado. Essa aplicação tem como objetivo substituir as anotações em papel no dia a dia do controlador de acesso..
+description: Este projeto utiliza o armazenamento local para guardar os registros criados, desse modo as informações não são perdidas quando o aplicativo é encerrado. Essa aplicação tem como objetivo substituir as anotações em papel no dia a dia do controlador de acesso.
 
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
